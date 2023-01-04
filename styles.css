@@ -9,7 +9,7 @@
 .imagen-fantasma {
   height: 300px;
   width: 300px;
-  background-color: red;
+  background-color: blue;
   position: absolute;
   left: -100vw;
 }
