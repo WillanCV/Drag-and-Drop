@@ -1,0 +1,15 @@
+.parrafo {
+  background-color: white;
+  padding: 1rem;
+}
+
+.parrafo.dragging{
+  opacity: 0.3;
+}
+.imagen-fantasma {
+  height: 300px;
+  width: 300px;
+  background-color: red;
+  position: absolute;
+  left: -100vw;
+}
